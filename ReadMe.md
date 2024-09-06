@@ -1,4 +1,4 @@
-<img align="center" alt="cat" src="https://github.com/3shadow7/3shadow7/blob/main/shadow-gif-github.gif" width="100%" />
+<img align="center" alt="cat" src="https://github.com/3shadow7/3shadow7/blob/main/shadow-gif-github.gif" width="33%" />
 <h1 align="center">Hi 👋, I'm Elias Ozzy</h1>
 <h3 align="center">A FullStack Web Developer from Libya</h3>
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
