@@ -1,4 +1,4 @@
-<div>
+<div class="abcd" style="width:fit-content;">
   <img style="
     width: 20%;
     /* height: 200px; */
