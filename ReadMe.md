@@ -1,4 +1,8 @@
-
+<style>
+  body {
+       background-color: yellow;
+  }
+</style>
 <img style="max-width: 100% !important; position: fixed !important; width: 100% !important;  height: 100% !important; z-index: -1 !important;" src="https://github.com/3shadow7/3shadow7/blob/main/%23000.png" />
 
 <div align="center">
