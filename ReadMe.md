@@ -1,6 +1,6 @@
 <div align="center">
   <img style="display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="50%"/>
-   < img style="display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="50%"/>
+  <img style="display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="50%"/>
 
   <img style="
     /* height: 200px; */
