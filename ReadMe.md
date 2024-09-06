@@ -1,7 +1,12 @@
 
 <img style="
-  display:fexd;
-  position:absolute;" src="https://github.com/3shadow7/3shadow7/blob/main/%23000.png" />
+    max-width: 100%;
+    /* display: flex; */
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  " src="https://github.com/3shadow7/3shadow7/blob/main/%23000.png" />
 
 <div align="center">
   <img style=" position: absolute;
