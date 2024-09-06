@@ -1,6 +1,5 @@
-<div class="abcd" style="width:fit-content;">
+<div align="center">
   <img style="
-    width: 20%;
     /* height: 200px; */
     /* background-color: lightblue; */
     position: absolute;
