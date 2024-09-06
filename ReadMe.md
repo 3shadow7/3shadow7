@@ -1,5 +1,7 @@
 
-<img src="https://github.com/3shadow7/3shadow7/blob/main/%23000.png" width="100%" hieght="100%"/>
+<img style="
+  display:fexd;
+  position:absolute;" src="https://github.com/3shadow7/3shadow7/blob/main/%23000.png" />
 
 <div align="center">
   <img style=" position: absolute;
