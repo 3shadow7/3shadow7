@@ -1,6 +1,14 @@
 <div align="center">
-  <img style="display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="50%"/>
-  <img style="display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="50%"/>
+  <img style=" position: absolute;
+    /* top: 50%; */
+    left: 30%;
+    transform: translate(-50%, -50%);
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="20%"/>
+  <img style=" position: absolute;
+    /* top: 50%; */
+    left: 70%;
+    transform: translate(-50%, -50%);
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="20%"/>
 
   <img style="
     /* height: 200px; */
