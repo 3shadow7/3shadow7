@@ -1,53 +1,31 @@
 <div align="center">
   <img style=" position: absolute;
     /* top: 50%; */
-    left: 0%;
     transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
   <img style=" position: absolute;
     /* top: 50%; */
-    left: 70%;
     transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
      <img style=" position: absolute;
     /* top: 50%; */
+    transform: translate(-50%, -50%);
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
+ <img style=" position: absolute;
     left: 70%;
     transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
  <img style=" position: absolute;
     /* top: 50%; */
-    left: 70%;
     transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
- <img style=" position: absolute;
-    /* top: 50%; */
-    left: 70%;
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
      <img style=" position: absolute;
     /* top: 50%; */
-    left: 70%;
     transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
- <img style=" position: absolute;
-    /* top: 50%; */
-    left: 70%;
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
- <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
- <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
- <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="10%"/>
+    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
 
 
+<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
 
   <img style="
     /* height: 200px; */
@@ -59,9 +37,7 @@
     /* max-width: 100%; */
     display: inline-block;" alt="cat" src="https://github.com/3shadow7/3shadow7/blob/main/shadow-gif-github.gif" width="20%" />
 </div>
-<img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
-
-<h1 align="center">Hi 👋, I'm Elias Ozzy</h1>
+<h1 align="center">Hi 👋🏻, I'm Elias Ozzy</h1>
 <h3 align="center">A FullStack Web Developer from Libya</h3>
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
 
