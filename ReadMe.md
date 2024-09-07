@@ -32,7 +32,7 @@ $~~~~~~~~~~~~~~~~$• blockchain <br><br>
 
 🏢 i work as a back-end Engineer at **NABU IT Solutions** .<br><br>
 💼 I'm still looking for a company to work for and fill my free time .<br><br>
-💻/📱 my personal website : [here](https://3shadow7.pythonanywhere.com/ar/) .<br><br>
+💻/📱 my personal website : [here](https://3shadow7.pythonanywhere.com/en/) .<br><br>
 ### 🌐 feel free to Contact me on :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/3shadow7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3shadow7)  [![telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/L3shadow7)
 
