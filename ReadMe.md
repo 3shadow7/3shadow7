@@ -1,12 +1,6 @@
 
 
 <div align="center">
-  <img align="center" style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://github.com/3shadow7/3shadow7/blob/main/stars-banner-github-.gif" />
-  
-
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
 
   <img style="
@@ -114,5 +108,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=3shadow7&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+<img align="center" style=" position: absolute;
+    /* top: 50%; */
+    transform: translate(-50%, -50%);
+    display:inline-block;" src="https://github.com/3shadow7/3shadow7/blob/main/stars-banner-github-.gif" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
