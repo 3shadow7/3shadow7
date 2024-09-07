@@ -19,12 +19,12 @@
 
 <img align="right" alt="programming" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" />
 
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=3shadow7&icon=0&color=0" alt="shadow-counter-ppl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
-- 🔭 I’m currently working on **Vexa Web App**
+👨‍💻 **a freelancer developer :**<br>
+ ——— full stack website <br>
+  • bots <br>
+  • custom scripts <br>
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -113,6 +113,8 @@
     /* top: 50%; */
     transform: translate(-50%, -50%);
     display:inline-block;" src="https://github.com/3shadow7/3shadow7/blob/main/stars-banner-github-.gif" />
+
+  <img src="https://github.com/3shadow7/3shadow7/blob/main/shadow-gif-github.gif" width="20%"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
