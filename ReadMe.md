@@ -22,17 +22,16 @@
 <p align="left">$~$<br><img src="https://visitcount.itsvg.in/api?id=3shadow7&icon=0&color=0" alt="shadow-counter-ppl" /> </p>
 
 👨‍💻 **as freelancer developer i provide :**<br>
- $~~~~~~~~~~~~~~~~$• full stack website <br>
- $~~~~~~~~~~~~~~~~$• bots <br>
- $~~~~~~~~~~~~~~~~$• custom scripts <br>
+$~~~~~~~~~~~~~~~~$• full stack website <br>
+$~~~~~~~~~~~~~~~~$• bots <br>
+$~~~~~~~~~~~~~~~~$• custom scripts <br>
 
-- 🌱 I’m currently learning **DevOps**
+🏢 working at **NABU IT Solutions** .<br>
+💼 I'm still looking for a company to work for and fill my free time .<br>
+🌐 my personal website : [here](https://3shadow7.pythonanywhere.com/ar/) .<br><br>
+💬 If you need to ask something?<br> Well, I'm human and I'm still alive, so DM me on my active accounts .
+<br>
 
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 ---
 
 
