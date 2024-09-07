@@ -30,7 +30,7 @@ $~~~~~~~~~~~~~~~~$• custom scripts <br>
 $~~~~~~~~~~~~~~~~$• Blender <br>
 $~~~~~~~~~~~~~~~~$• blockchain <br><br>
 
-🏢 i work as a back-end Engineering at **NABU IT Solutions** .<br><br>
+🏢 i work as a back-end Engineer at **NABU IT Solutions** .<br><br>
 💼 I'm still looking for a company to work for and fill my free time .<br><br>
 💻/📱 my personal website : [here](https://3shadow7.pythonanywhere.com/ar/) .<br><br>
 ### 🌐 feel free to Contact me on :
