@@ -6,31 +6,6 @@
     transform: translate(-50%, -50%);
     display:inline-block;" src="https://github.com/3shadow7/3shadow7/blob/main/stars-banner-github-.gif" />
   
-  <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
-  <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
-     <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
- <img style=" position: absolute;
-    left: 70%;
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
- <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
-     <img style=" position: absolute;
-    /* top: 50%; */
-    transform: translate(-50%, -50%);
-    display:inline-block;" src="https://media.tenor.com/FB61COQ_QOYAAAAM/star-header.gif" width="15%"/>
-
 
 <img src="https://github.com/user-attachments/assets/069dff95-6d5d-4813-9c21-1493108c3e14"/>
 
