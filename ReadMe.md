@@ -19,7 +19,7 @@
 
 <img align="right" alt="programming" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300"  />
 
-<p align="left"> <br>$~~~~~~~~~~~~~~~~$  <br><img src="https://visitcount.itsvg.in/api?id=3shadow7&icon=0&color=0" alt="shadow-counter-ppl" /> </p>
+<p align="left">$~$<br><img src="https://visitcount.itsvg.in/api?id=3shadow7&icon=0&color=0" alt="shadow-counter-ppl" /> </p>
 
 👨‍💻 **as freelancer developer i provide :**<br>
  $~~~~~~~~~~~~~~~~$• full stack website <br>
@@ -33,6 +33,7 @@
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+---
 
 
 ## Services Offered:
