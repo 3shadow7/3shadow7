@@ -26,25 +26,17 @@ $~~~~~~~~~~~~~~~~$• full stack website <br>
 $~~~~~~~~~~~~~~~~$• bots <br>
 $~~~~~~~~~~~~~~~~$• custom scripts <br>
 
+🌱 **I’m currently learning :**<br>
+$~~~~~~~~~~~~~~~~$• Blender <br>
+$~~~~~~~~~~~~~~~~$• blockchain <br>
+
 🏢 working at **NABU IT Solutions** .<br>
-💼 I'm still looking for a company to work for and fill my free time .<br>
-🌐 my personal website : [here](https://3shadow7.pythonanywhere.com/ar/) .<br><br>
-💬 If you need to ask something?<br> Well, I'm human and I'm still alive, so DM me on my active accounts .
-<br>
+💼 I'm still looking for a company to work for and fill my free time .<br><br>
+💻/📱 my personal website : [here](https://3shadow7.pythonanywhere.com/ar/) .<br>
+### 🌐 feel free to Contact me on:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/3shadow7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3shadow7)  [![telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/L3shadow7)
 
 ---
-
-
-## Services Offered:
-
-### Full Stack Website Development
-I specialize in developing responsive, dynamic, and user-friendly full-stack websites tailored to your needs. From front-end design to back-end functionality, I ensure your website stands out.
-
-### Bot Development
-Need a custom bot for automating tasks, data collection, or enhancing user interactions? I create efficient and reliable bots to streamline your processes.
-
-### Custom Script Development
-Whether you need a custom script for data processing, automation, or any specific task, I provide tailored solutions to meet your requirements. If something isn't working as expected, I can troubleshoot and fix it for you.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
