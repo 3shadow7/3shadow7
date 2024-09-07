@@ -36,11 +36,9 @@ $~~~~~~~~~~~~~~~~$• blockchain <br><br>
 ### 🌐 feel free to Contact me on :
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/3shadow7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3shadow7)  [![telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/L3shadow7)
 
-<br>
-
 ---
 
-<br><br>
+<br>
 <h3 align="left">✍🏻 Languages :</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
