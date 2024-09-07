@@ -17,7 +17,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     /* max-width: 100%; */
-    display: inline-block;" alt="shadow" src="https://github.com/3shadow7/3shadow7/blob/main/L-SHADOW%20ICON%20V3.png" width="130px" />
+    display: inline-block;" alt="shadow" src="https://github.com/3shadow7/3shadow7/blob/main/L-SHADOW%20ICON%20V3.png" width="100rem" />
 </div>
 <h1 align="center">Hi 👋🏻, I'm Elias Ozzy</h1>
 <h4 align="center">A FullStack Web Developer from Libya</h4>
