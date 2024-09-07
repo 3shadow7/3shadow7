@@ -21,10 +21,10 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=3shadow7&icon=0&color=0" alt="shadow-counter-ppl" /> </p>
 
-👨‍💻 **a freelancer developer :**<br>
- ——— full stack website <br>
-  • bots <br>
-  • custom scripts <br>
+👨‍💻 **as freelancer developer i provide :**<br>
+ $~~~~~~~~~~~~~~~~$• full stack website <br>
+ $~~~~~~~~~~~~~~~~$• bots <br>
+ $~~~~~~~~~~~~~~~~$• custom scripts <br>
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -33,6 +33,18 @@
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+
+## Services Offered:
+
+### Full Stack Website Development
+I specialize in developing responsive, dynamic, and user-friendly full-stack websites tailored to your needs. From front-end design to back-end functionality, I ensure your website stands out.
+
+### Bot Development
+Need a custom bot for automating tasks, data collection, or enhancing user interactions? I create efficient and reliable bots to streamline your processes.
+
+### Custom Script Development
+Whether you need a custom script for data processing, automation, or any specific task, I provide tailored solutions to meet your requirements. If something isn't working as expected, I can troubleshoot and fix it for you.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
