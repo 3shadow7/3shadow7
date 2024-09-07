@@ -1,11 +1,11 @@
-<style>
-  body {
-       background-color: yellow;
-  }
-</style>
-<img style="max-width: 100% !important; position: fixed !important; width: 100% !important;  height: 100% !important; z-index: -1 !important;" src="https://github.com/3shadow7/3shadow7/blob/main/%23000.png" />
+
 
 <div align="center">
+  <img align="center" style=" position: absolute;
+    /* top: 50%; */
+    transform: translate(-50%, -50%);
+    display:inline-block;" src="https://github.com/3shadow7/3shadow7/blob/main/stars-banner-github-.gif" />
+  
   <img style=" position: absolute;
     /* top: 50%; */
     transform: translate(-50%, -50%);
