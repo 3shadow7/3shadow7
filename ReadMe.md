@@ -17,7 +17,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     /* max-width: 100%; */
-    display: inline-block;" alt="cat" src="https://github.com/3shadow7/3shadow7/blob/main/shadow-gif-github.gif" width="25%" />
+    display: inline-block;" alt="cat" src="https://github.com/3shadow7/3shadow7/blob/main/shadow-gif-github.gif" width="20%" />
 </div>
 <h1 align="center">Hi 👋🏻, I'm Elias Ozzy</h1>
 <h4 align="center">A FullStack Web Developer from Libya</h4>
